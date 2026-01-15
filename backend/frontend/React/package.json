@@ -1,0 +1,27 @@
+{
+  "name": "ai-study-frontend",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.0",
+    "axios": "^1.13.1",
+    "framer-motion": "^12.23.24",
+    "lucide-react": "^0.552.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^7.9.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "css": "^3.0.0",
+    "post": "^0.0.1",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.18",
+    "vite": "^5.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
